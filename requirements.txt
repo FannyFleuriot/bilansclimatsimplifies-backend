@@ -1,4 +1,4 @@
-asgiref==3.4.1
+asgiref==3.5.0
 astkit==0.5.4
 black==21.12b0
 certifi==2021.10.8
@@ -8,7 +8,7 @@ click==8.0.3
 coverage==6.2
 cryptography==36.0.1
 Deprecated==1.2.13
-Django==3.2.11
+Django==4.0.2
 django-cors-headers==3.11.0
 django-nose==1.4.7
 djangorestframework==3.13.1
